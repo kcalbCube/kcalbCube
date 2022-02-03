@@ -1,4 +1,4 @@
-### #include <kcalbCube.h>
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%23F7F7F7&center=true&vCenter=true&lines=%23include+%3CkcalbCube.h%3E)](https://git.io/typing-svg)
 
 <!--
 **kcalbCube/kcalbCube** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -16,5 +16,3 @@ Here are some ideas to get you started:
 -->
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=kcalbCube)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=consolas&color=%231C13F7&center=true&vCenter=true&lines=C%2B%2B+for+the+ages)](https://git.io/typing-svg)
